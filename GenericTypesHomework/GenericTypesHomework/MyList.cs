@@ -32,19 +32,20 @@ namespace GenericTypesHomework
         }
         public void Remove(T input)
         {
-            foreach (var item in _arr)
-            {
-                //if (item == input)
-            }
+            //foreach (var item in _arr)
+            //{
+            //    if (item.Equals(input))
+            //    {
+            //    }
+            //}
         }
         public void Clear()
         {
             _arr = new T[0];
         }
-        public void Exist()
-        {
-
-        }
+        //public bool exist()
+        //{
+        //}
         public void Reverse()
         {
             for (int i = _arr.Length - 1; i >= 0; i--)
@@ -52,13 +53,19 @@ namespace GenericTypesHomework
                 Console.WriteLine(_arr[i]);
             }
         }
-        public void IndexOf(int index)
+        public void IndexOf(T elem)
         {
-            Console.WriteLine(_arr[index]);
+            for (int i = 0; i < _arr.Length; i++)
+            {
+                if (_arr[i].Equals(elem))
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
         public void LastIndexOf()
         {
-            Console.WriteLine(_arr[_arr.Length - 1]);
+            Console.WriteLine(_arr.Length - 1);
         }
         public void Print()
         {

@@ -11,8 +11,8 @@ namespace GenericTypesHomework
             ml.AddItems("Salam", "Necesen", "ne", "var", "ala", "heyva");
             //ml.RemoveLast();
             //ml.Reverse();
-            ml.LastIndexOf();
-            //ml.Print();
+            //ml.IndexOf("Necesen");
+            ml.Print();
         }
     }
 }

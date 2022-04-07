@@ -11,3 +11,17 @@ C:\Users\Asus\source\repos\GenericTypesHomework\GenericTypesHomework\obj\Debug\n
 C:\Users\Asus\source\repos\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.dll
 C:\Users\Asus\source\repos\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.pdb
 C:\Users\Asus\source\repos\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.genruntimeconfig.cache
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.exe
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.deps.json
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.runtimeconfig.json
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.runtimeconfig.dev.json
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.dll
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\bin\Debug\netcoreapp3.1\GenericTypesHomework.pdb
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.csproj.AssemblyReference.cache
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.AssemblyInfoInputs.cache
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.AssemblyInfo.cs
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.dll
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.pdb
+C:\Users\Ali Mamadzada BP101\Desktop\07.04.2022_Homework\GenericTypesHomework\GenericTypesHomework\obj\Debug\netcoreapp3.1\GenericTypesHomework.genruntimeconfig.cache
